@@ -25,11 +25,9 @@ export const PageNumber = styled.div`
 const SliderContainer = styled.div`
   display: flex;
   width: 271px;
-  margin-left: 108px;
   @media (max-width: 376px) {
     display: flex;
     flex-direction: column;
-    margin-left: 0px;
   }
 `;
 
